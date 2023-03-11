@@ -1,0 +1,95 @@
+baseURL = 'https://foruq.ir/'
+languageCode = 'fa-ir'
+title = 'فروغ'
+theme = ["whiteplain-dark", "whiteplain"]
+
+
+## Disqus shortname
+# disqusShortname = "Shortname"
+## google analytics tracking id
+# googleAnalytics = "Toracking ID"
+
+# Copyright notice. This is displayer in the footer.
+copyright = "&copy; فروغ - فروردین ۱۴۰۲"
+
+[params]
+  # whether to use CDN or local file for fontawesome
+  #useCDN = false
+  # whether to include external sharing scripts and icons for twitter, facebook and co.
+  #showShareIcons = false
+  # Date format
+  #dateFormat = "January 2, 2006"
+
+# This is displayer in About page.
+[params.author]
+  name = "محمدرضا طیبی"
+  # Gravatar or Abatar image
+  gravatar = "tayyebimohammadreza@gmail.com"
+  #avatar = "/path/to/avatar"
+
+  # twitter = "Twitter username"
+  # facebook = "Facebook username"
+  # googleplus = "Googleplus username"
+  instagram = "tyyinet"
+  # tumblr = "Tumblr username"
+  # flickr = "Flickr username"
+  # reddit = "Reddit username"
+  linkedin = "Linkedin username"
+  # slideshare = "Slideshare username"
+  github = "tayyebi"
+  # gitlab = "Gitlab username"
+  # bitbucket = "Bitbucket username"
+  stackoverflow = "3847552/tayyebi"
+  # jsfiddle = "Jsfiddle username"
+  # codepen = "Codepen username"
+  # deviantart = "Deviantart username"
+  # behance = "Behance username"
+  # dribbble = "Dribbble username"
+  # wordpress = "Wordpress username"
+  medium = "tayyebi"
+  # foursquare = "Foursquare username"
+  # xing = "Xing username"
+  # quora = "Quora username"
+  # youtube = "mohammadrezatayyebi"
+  # vimeo = "Vimeo username"
+  # whatsapp = "Whatsapp username"
+  # skype = "Skype username"
+  # snapchat = "Snapchat username"
+  # pinterest = "Pinterest username"
+  # telegram = "Telegram username"
+  # vine = "Vine username"
+  email = "smile@tyyi.net"
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+  series = "series"
+
+# Header Menu
+[[menu.main]]
+  name = "دسته‌بندی‌ها"
+  identifier = "categories"
+  url = "/categories/"
+  weight = 1
+[[menu.main]]
+  name = "برچسب‌ها"
+  identifier = "tags"
+  url = "/tags/"
+  weight = 2
+[[menu.main]]
+  name = "آرشیو"
+  identifier = "archives"
+  url = "/archives/"
+  weight = 3
+[[menu.main]]
+  name = "درباره"
+  identifier = "about"
+  url = "/about/"
+  weight = 4
+
+# Footer Menu
+[[menu.footer]]
+  name = "درباره"
+  weight = 1
+  identifier = "about"
+  url = "/about/"
