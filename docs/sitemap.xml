@@ -2,13 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://foruq.ir/categories/</loc>
+    <lastmod>2023-03-11T15:29:37+03:30</lastmod>
+  </url><url>
     <loc>https://foruq.ir/posts/</loc>
     <lastmod>2023-03-11T15:29:37+03:30</lastmod>
   </url><url>
-    <loc>https://foruq.ir/posts/test/</loc>
+    <loc>https://foruq.ir/series/</loc>
+    <lastmod>2023-03-11T15:29:37+03:30</lastmod>
+  </url><url>
+    <loc>https://foruq.ir/tags/</loc>
+    <lastmod>2023-03-11T15:29:37+03:30</lastmod>
+  </url><url>
+    <loc>https://foruq.ir/tags/%D8%A2%D9%85%D8%A7%D8%B1-%D9%88-%D8%A7%D8%AD%D8%AA%D9%85%D8%A7%D9%84%D8%A7%D8%AA/</loc>
+    <lastmod>2023-03-11T15:29:37+03:30</lastmod>
+  </url><url>
+    <loc>https://foruq.ir/categories/%D9%BE%D8%A7%DB%8C%D9%87/</loc>
+    <lastmod>2023-03-11T15:29:37+03:30</lastmod>
+  </url><url>
+    <loc>https://foruq.ir/series/%D9%BE%D8%B1%D8%AF%D8%A7%D8%B2%D8%B4-%DA%A9%D9%88%D8%A7%D9%86%D8%AA%D9%85%DB%8C/</loc>
+    <lastmod>2023-03-11T15:29:37+03:30</lastmod>
+  </url><url>
+    <loc>https://foruq.ir/tags/%D8%AC%D8%A8%D8%B1-%D8%AE%D8%B7%DB%8C/</loc>
+    <lastmod>2023-03-11T15:29:37+03:30</lastmod>
+  </url><url>
+    <loc>https://foruq.ir/tags/%D8%B7%D8%B1%D8%A7%D8%AD%DB%8C-%D8%A7%D9%84%DA%AF%D9%88%D8%B1%DB%8C%D8%AA%D9%85/</loc>
     <lastmod>2023-03-11T15:29:37+03:30</lastmod>
   </url><url>
     <loc>https://foruq.ir/</loc>
+    <lastmod>2023-03-11T15:29:37+03:30</lastmod>
+  </url><url>
+    <loc>https://foruq.ir/posts/intro/</loc>
     <lastmod>2023-03-11T15:29:37+03:30</lastmod>
   </url><url>
     <loc>https://foruq.ir/about/</loc>
@@ -16,11 +40,5 @@
   </url><url>
     <loc>https://foruq.ir/archives/</loc>
     <priority>0</priority>
-  </url><url>
-    <loc>https://foruq.ir/category/</loc>
-  </url><url>
-    <loc>https://foruq.ir/series/</loc>
-  </url><url>
-    <loc>https://foruq.ir/tag/</loc>
   </url>
 </urlset>

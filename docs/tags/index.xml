@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on فروغ</title>
+    <link>https://foruq.ir/tags/</link>
+    <description>Recent content in Tags on فروغ</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fa-ir</language>
+    <copyright>&amp;copy; فروغ - فروردین ۱۴۰۲</copyright>
+    <lastBuildDate>Sat, 11 Mar 2023 15:29:37 +0330</lastBuildDate><atom:link href="https://foruq.ir/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>آمار و احتمالات</title>
+      <link>https://foruq.ir/tags/%D8%A2%D9%85%D8%A7%D8%B1-%D9%88-%D8%A7%D8%AD%D8%AA%D9%85%D8%A7%D9%84%D8%A7%D8%AA/</link>
+      <pubDate>Sat, 11 Mar 2023 15:29:37 +0330</pubDate>
+      
+      <guid>https://foruq.ir/tags/%D8%A2%D9%85%D8%A7%D8%B1-%D9%88-%D8%A7%D8%AD%D8%AA%D9%85%D8%A7%D9%84%D8%A7%D8%AA/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>جبر خطی</title>
+      <link>https://foruq.ir/tags/%D8%AC%D8%A8%D8%B1-%D8%AE%D8%B7%DB%8C/</link>
+      <pubDate>Sat, 11 Mar 2023 15:29:37 +0330</pubDate>
+      
+      <guid>https://foruq.ir/tags/%D8%AC%D8%A8%D8%B1-%D8%AE%D8%B7%DB%8C/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>طراحی الگوریتم</title>
+      <link>https://foruq.ir/tags/%D8%B7%D8%B1%D8%A7%D8%AD%DB%8C-%D8%A7%D9%84%DA%AF%D9%88%D8%B1%DB%8C%D8%AA%D9%85/</link>
+      <pubDate>Sat, 11 Mar 2023 15:29:37 +0330</pubDate>
+      
+      <guid>https://foruq.ir/tags/%D8%B7%D8%B1%D8%A7%D8%AD%DB%8C-%D8%A7%D9%84%DA%AF%D9%88%D8%B1%DB%8C%D8%AA%D9%85/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
