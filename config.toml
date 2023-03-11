@@ -67,29 +67,35 @@ copyright = "&copy; فروغ - فروردین ۱۴۰۲"
 
 # Header Menu
 [[menu.main]]
+  name = "سلسله‌ها"
+  identifier = "series"
+  url = "/series/"
+  weight = 1
+
+
+# Footer Menu
+[[menu.footer]]
+  name = "بایگانی"
+  identifier = "archives"
+  url = "/archives/"
+  weight = 1
+[[menu.footer]]
+  name = "سلسله‌ها"
+  identifier = "series"
+  url = "/series/"
+  weight = 1
+[[menu.footer]]
   name = "دسته‌بندی‌ها"
   identifier = "categories"
   url = "/categories/"
   weight = 1
-[[menu.main]]
+[[menu.footer]]
   name = "برچسب‌ها"
   identifier = "tags"
   url = "/tags/"
-  weight = 2
-[[menu.main]]
-  name = "آرشیو"
-  identifier = "archives"
-  url = "/archives/"
-  weight = 3
-[[menu.main]]
-  name = "درباره"
-  identifier = "about"
-  url = "/about/"
-  weight = 4
-
-# Footer Menu
+  weight = 1
 [[menu.footer]]
   name = "درباره"
-  weight = 1
   identifier = "about"
   url = "/about/"
+  weight = 1
